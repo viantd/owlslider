@@ -2588,9 +2588,9 @@
 	 * @public
 	 */
 	Autoplay.Defaults = {
-		autoplay: false,
+		autoplay: true,
 		autoplayTimeout: 5000,
-		autoplayHoverPause: false,
+		autoplayHoverPause: true,
 		autoplaySpeed: false
 	};
 
